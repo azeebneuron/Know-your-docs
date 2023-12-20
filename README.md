@@ -45,9 +45,6 @@ pip install streamlit python-dotenv pypdf2 langchain transformers
 - `app.py`: The main script containing the Streamlit application and the necessary functions for document processing and conversation handling.
 - `htmlTemplates.py`: HTML templates for formatting the user and bot messages in the chat interface.
 
-## Note
-
-- Make sure to set up your environment variables using a `.env` file for any sensitive information.
 
 Feel free to customize the application and explore the codebase further to enhance its functionality.
 
