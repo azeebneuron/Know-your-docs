@@ -1,4 +1,4 @@
-# Chat with your PDFs
+# Know-your-docs
 
 This is a Streamlit application that allows users to chat with an AI model about the content of multiple uploaded PDF documents. The application leverages various NLP and document processing libraries to enable a seamless conversational experience.
 
